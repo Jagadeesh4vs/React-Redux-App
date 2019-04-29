@@ -13,8 +13,8 @@ class Navigation extends Component{
                     <Link to='/'>{"Fashion"}</Link>
                     <NavLink to='/about'>{"Mobiles"}</NavLink>
                     <NavLink to='/contact'>{"Accessaries"}</NavLink>
-                    <NavLink to='/contact'>{"Grocery"}</NavLink>
-                    <NavLink to='/contact'>{"Offers"}</NavLink>
+                    <NavLink to='/grocery'>{"Grocery"}</NavLink>
+                    <NavLink to='/offers'>{"Offers"}</NavLink>
                 </div>
             </div>
         )
